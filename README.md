@@ -21,7 +21,7 @@
 ![Блок-схема алгоритма](<img width="121" height="701" alt="Lab2_HWscheme" src="https://github.com/user-attachments/assets/22e300d0-760d-4896-b02e-dd2b3c5ab9ac" />) 
 
 ## 2. Реализация программы
-
+```
 #include <stdio.h>
 #include <locale.h>
 int V, x;
@@ -47,7 +47,7 @@ void main()
     printf("=====================================\n");
     printf("Время, затраченное на путь: %2.1f часа", time);
 }
-
+```
 ## 3. Результаты работы программы
 
 Расчёт времени затраченного на путь
