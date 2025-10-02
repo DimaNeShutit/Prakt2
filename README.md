@@ -18,7 +18,7 @@
 6. **Конец**
 
 ### Блок-схема
-![Блок-схема алгоритма](<img width="121" height="701" alt="Lab2_HWscheme" src="https://github.com/user-attachments/assets/22e300d0-760d-4896-b02e-dd2b3c5ab9ac" />) 
+![Блок-схема алгоритма](Lab2_HWscheme.png) 
 
 ## 2. Реализация программы
 ```
